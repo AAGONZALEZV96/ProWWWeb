@@ -1,0 +1,55 @@
+H1{
+    background-color: bisque;
+    color: darkred;
+    text-align: center;
+
+}
+form{
+
+    text-align: center;
+    color: brown;
+    background-color: aqua;
+    width:70%;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: none;
+    padding: 40px;
+    
+
+}
+form > input{
+    width: 100%;
+    padding: 10px;
+    margin: auto; 
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+button{
+    margin: 10px 0;
+    width: 100%;
+    padding: 10px;
+    background-color: green;
+    color: rgb(224, 13, 98);
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+
+footer{
+    width: 100%;
+    background-color:blanchedalmond ;
+    text-align: center;
+    color: cornsilk;
+    margin-top: 40px;
+    bottom: 0;
+    position: fixed;
+    padding: 22px 0;
+}
+footer > p{
+    
+    text-transform:uppercase;
+    color: black;
+    
+    
+}
